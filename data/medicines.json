@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Парацетамол",
+        "category": "Жаропонижающее",
+        "manufacturer": "PharmaCorp",
+        "quantity": 58,
+        "price": 69.0,
+        "description": "Жаропонижающее и обезболивающее средство.",
+        "expiry_date": "2027-12-31"
+    },
+    {
+        "id": 2,
+        "name": "Ибупрофен",
+        "category": "Обезболивающее",
+        "manufacturer": "MedLife",
+        "quantity": 40,
+        "price": 150,
+        "description": "Нестероидное противовоспалительное и обезболивающее средство.",
+        "expiry_date": "2026-10-31"
+    }
+]
